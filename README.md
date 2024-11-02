@@ -4,9 +4,11 @@
 
 # *Lawyers-Company*
 <p align="center">
+    ![WhatsApp Image 2024-11-02 at 11 30 26 AM](https://github.com/user-attachments/assets/58838666-149e-426a-b47b-5aa1970c13dd)
 <p/>
-
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
+
+
 
 # *CARACTERISTICAS:*
 Genere un informe que describa una solución aplicando las siguientes características:
