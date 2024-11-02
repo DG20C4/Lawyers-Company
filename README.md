@@ -59,6 +59,7 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
     https://github.com/ValerosoV 
 # *Email institucional:* juand.valerov@konradlorenz.edu.co   
 
+
 # *Estudiante: David Chaves: 506222728*
     https://github.com/DG20C4
 # *Email institucional:* david.gutierrec@konradlorenz.edu.co  
