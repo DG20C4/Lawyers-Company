@@ -4,7 +4,7 @@
 
 # *Lawyers-Company*
 <p align="center">
-  <img width="1000" height="500" src="Lawyer-Company.jpeg" alt="Lawyer Company">
+  <img width="1000" height="500" src="logoLayers.jpg" alt="Lawyer Company">
 </p>
 
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
