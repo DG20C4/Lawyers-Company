@@ -24,11 +24,14 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 6. Implemente un prototipo funcional en HTML de forma funcional (Sitio principal y panel de control).
 7. Los vínculos que representan los contenidos deben ser enlaces activos.
 
+
 ## *CASO PROBLEMA:*
 Se requiere diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados. Cada asunto tiene un número de expediente que lo identifica, y corresponde a un solo cliente. Del asunto se debe almacenar el período (Fecha de inicio y fecha de archivo o fidelización), su estado (En trámite, archivado y cerrado). Algunos asuntos son llevados por uno o varios procuradores, de los que nos interesa también los datos personales.
 
+
 ## *PROBLEMA:*
 El proyecto consiste en desarrollar una aplicación de software destinada a la gestión integral de los expedientes legales de un gabinete de abogados. Esta herramienta permitirá a los abogados y procuradores registrar, organizar, y consultar la información relacionada con los casos que manejan. La aplicación estará diseñada para facilitar la administración de los casos, desde su apertura hasta su resolución, permitiendo gestionar de manera eficiente todos los aspectos relacionados con sus expedientes legales, asegurando la seguridad de la información, la colaboración entre profesionales, y la generación de informes para una mejor toma de decisiones para la firma Lawyers Company.
+
 
 ## *PROPUESTA:*
 El proyecto tiene como objetivo el diseño y desarrollo de una aplicación de software destinada a mejorar la gestión de los expedientes legales de un gabinete de abogados del proyecto “Lawyers Company”. Este sistema permitirá almacenar, organizar y consultar información detallada de los casos, los clientes involucrados y los procuradores responsables. Facilitando el seguimiento del estado de los casos, la colaboración entre procuradores tanto internos y externos, y la generación de informes para optimizar la toma de decisiones frente a cada diverso proceso.
@@ -51,6 +54,15 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
 *E.* Generar informes e indicadores de cumplimiento: Desarrollar una función que permita generar informes automáticos sobre el estado de los asuntos, el desempeño de los procuradores, y otros indicadores clave, para mejorar la toma de decisiones y la planificación del gabinete de abogados.
 
 *F.* Garantizar la seguridad y confidencialidad de la información: Implementar mecanismos de seguridad que aseguren el acceso restringido a la información sensible de los expedientes y los datos personales de los clientes y procuradores, cumpliendo con normativas de protección de datos (como la ley de protección de datos personales o Ley 1581 de 2012).
+
+
+## *COMPONENTES DE PROGRAMACIÓN:*
+Para realizar el proyecto se tiene en cuenta lo abordado en el caso problema  descrito anteriormente, los requerimientos del sistema están basados en el mapa de navegación y diseño de la interfaces gráficas presentadas en el guión de contenido.
+
+Utilizamos lenguajes de programación como HTML para la estructura y punto de partida de la información en relación a nuestro proyecto web. Utilizamos CSS para dar diseños y estilos diferentes a algunos de los botones, imágenes, objetos estáticos backend para animaciones de las páginas de redireccionamiento, login, consulta del checkbox, transición de imágenes dentro del aplicativo al igual que un color fiel al logo de Lawyers Company. 
+
+Todo lo mencionado anteriormente se realizó con el fin de obtener una página más dinámica, pensando en la facilidad y utilidad para el usuario. También se utilizó como componente teórico práctico los componentes de UX y UI, los principios SOLID, algunas recomendaciones de los patrones de diseño teniendo en cuenta la calidad de un aplicativo funcional de software en la vida real dentro de los parámetros establecidos en la primera entrega de este proyecto final.
+
 
 
 # *Diseñadores: Lawyers Company* 
