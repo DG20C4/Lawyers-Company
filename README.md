@@ -1,5 +1,4 @@
-
-## *Diseño De Interfacez De Usuario*
+# *Diseño De Interfacez De Usuario*
 *Ingeniería De Sistemas Programa:1569*
 
 *Link de acceso al proyecto final:*
