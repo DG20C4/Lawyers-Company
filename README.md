@@ -57,9 +57,7 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
 
 
 ## *COMPONENTES DE PROGRAMACIÓN:*
-Para realizar el proyecto se tiene en cuenta lo abordado en el caso problema  descrito anteriormente, los requerimientos del sistema están basados en el mapa de navegación y diseño de la interfaces gráficas presentadas en el guión de contenido.
-
-Utilizamos lenguajes de programación como HTML para la estructura y punto de partida de la información en relación a nuestro proyecto web. Utilizamos CSS para dar diseños y estilos diferentes a algunos de los botones, imágenes, objetos estáticos backend para animaciones de las páginas de redireccionamiento, login, consulta del checkbox, transición de imágenes dentro del aplicativo al igual que un color fiel al logo de Lawyers Company. 
+Para la realización del proyecto se tuvieron en cuenta lo abordado en el caso problema  descrito anteriormente, los requerimientos del sistema están basados en el mapa de navegación y diseño de la interfaces gráficas presentadas en el guión de contenido. Utilizamos lenguajes de programación como HTML para la estructura y punto de partida de la información en relación a nuestro proyecto web. Utilizamos CSS para dar diseños y estilos diferentes a algunos de los botones, imágenes, objetos estáticos backend para animaciones de las páginas de redireccionamiento, login, consulta del checkbox, transición de imágenes dentro del aplicativo al igual que un color fiel al logo de Lawyers Company. 
 
 Todo lo mencionado anteriormente se realizó con el fin de obtener una página más dinámica, pensando en la facilidad y utilidad para el usuario. También se utilizó como componente teórico práctico los componentes de UX y UI, los principios SOLID, algunas recomendaciones de los patrones de diseño teniendo en cuenta la calidad de un aplicativo funcional de software en la vida real dentro de los parámetros establecidos en la primera entrega de este proyecto final.
 
