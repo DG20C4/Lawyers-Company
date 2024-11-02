@@ -2,10 +2,10 @@
 <p align="center">
 <p/>
 
-# Lawyers-Company
+# *LAWYERS COMPANY*
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
 
-*Características:*
+*CARACTERISTICAS:*
 Genere un informe que describa una solución aplicando las siguientes características:
 1. Descripción del problema y Alcance de la solución.
 2. Especificación de requerimientos y/o necesidades de la aplicación (Funcionales)
@@ -15,7 +15,28 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 6. Implemente un prototipo funcional en HTML de forma funcional (Sitio principal y panel de control).
 7. Los vínculos que representan los contenidos deben ser enlaces activos.
 
+CASO PROBLEMA:
+Se requiere diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados. Cada asunto tiene un número de expediente que lo identifica, y corresponde a un solo cliente. Del asunto se debe almacenar el período (Fecha de inicio y fecha de archivo o fidelización), su estado (En trámite, archivado y cerrado). Algunos asuntos son llevados por uno o varios procuradores, de los que nos interesa también los datos personales.
 
+*PROBLEMA:*
+El proyecto consiste en desarrollar una aplicación de software destinada a la gestión integral de los expedientes legales de un gabinete de abogados. Esta herramienta permitirá a los abogados y procuradores registrar, organizar, y consultar la información relacionada con los casos que manejan. La aplicación estará diseñada para facilitar la administración de los casos, desde su apertura hasta su resolución, permitiendo gestionar de manera eficiente todos los aspectos relacionados con sus expedientes legales, asegurando la seguridad de la información, la colaboración entre profesionales, y la generación de informes para una mejor toma de decisiones para la firma Lawyers Company.
+
+*PROPUESTA:*
+El proyecto tiene como objetivo el diseño y desarrollo de una aplicación de software destinada a mejorar la gestión de los expedientes legales de un gabinete de abogados del proyecto “Lawyers Company”. Este sistema permitirá almacenar, organizar y consultar información detallada de los casos, los clientes involucrados y los procuradores responsables. Facilitando el seguimiento del estado de los casos, la colaboración entre procuradores tanto internos y externos, y la generación de informes para optimizar la toma de decisiones frente a cada diverso proceso.
+
+*ALCANCE:*
+La aplicación permitirá a los abogados y procuradores gestionar de manera eficiente la carga de trabajo, asegurando que cada expediente esté actualizado y accesible para los profesionales involucrados. Esto reducirá los errores humanos y el tiempo empleado en buscar o actualizar información, permitiendo una mayor productividad y eficiencia en el manejo de casos en el escenario de un caso en la vida real.
+
+*OBJETIVO GENERAL:*
+Desarrollar una aplicación de software que permita gestionar de manera eficiente la información relacionada con los asuntos legales que maneja el proyecto “Lawyers Company”, garantizando un almacenamiento seguro y accesible de los expedientes, así como la capacidad de administrar y visualizar el estado de cada caso, los detalles de los clientes, y la participación de los procuradores involucrados.
+
+*OBJETIVOS ESPECÍFICOS:*
+Almacenar información: Desarrollar una funcionalidad que permita registrar y gestionar de manera clara y organizada la información de cada expediente legal, como el número de expediente, el período que cubre el asunto (fecha de inicio y fecha de finalización o fidelización) y su estado actual (en trámite, archivado, finalizado, etc.).
+Asociar cada expediente con su cliente: Implementar un sistema que asegure que cada expediente esté correctamente vinculado a un solo cliente, facilitando el acceso rápido a la información del cliente para los abogados y procuradores.
+Gestionar los procuradores asignados a cada expediente: Permitir el registro de uno o varios procuradores responsables de un asunto, junto con su información personal relevante (nombre, contacto, especialización, etc.), para facilitar la coordinación y el seguimiento del progreso de los casos.
+Visualización del estado y avance de los asuntos: Proporcionar una interfaz de usuario que permita a los abogados y procuradores consultar fácilmente el estado de un asunto (en trámite, archivado, etc.) y ver el historial de acciones o cambios en el mismo.
+Generar informes e indicadores de cumplimiento: Desarrollar una función que permita generar informes automáticos sobre el estado de los asuntos, el desempeño de los procuradores, y otros indicadores clave, para mejorar la toma de decisiones y la planificación del gabinete de abogados.
+Garantizar la seguridad y confidencialidad de la información: Implementar mecanismos de seguridad que aseguren el acceso restringido a la información sensible de los expedientes y los datos personales de los clientes y procuradores, cumpliendo con normativas de protección de datos (como la ley de protección de datos personales o Ley 1581 de 2012).
 
 # *Diseño De Interfacez De Usuario*
 Ingeniería De Sistemas    Programa: 1569
