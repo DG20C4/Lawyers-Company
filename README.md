@@ -3,9 +3,6 @@
 *Ingeniería De Sistemas Programa:1569*
 
 # *Lawyers-Company*
-![Lawyer Company](assets/logoLayers.jpg)
-convert Lawyer-Company.jpeg -quality 80 output.jpg
-
 <img src="Lawyer-Company.jpeg" alt="Lawyer Company" width="300" height="150">
 
 
