@@ -13,8 +13,7 @@ Ingeniería De Sistemas    Programa: 1569
 # Disñadores: Lawyers Company:* 
 # *Juan Valero: 506221052*
     https://github.com/ValerosoV 
-# *Email institucional:*
-    juand.valerov@konradlorenz.edu.co   
+# *Email institucional:* juand.valerov@konradlorenz.edu.co   
 
 # *David Chaves: 506222728*
     https://github.com/DG20C4
