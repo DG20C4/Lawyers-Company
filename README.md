@@ -3,9 +3,7 @@
 *Ingeniería De Sistemas Programa:1569*
 
 # *Lawyers-Company*
-<p align="center">
 ![Lawyer Company](Lawyer-Company.jpeg)
-<p/>
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
 
 
