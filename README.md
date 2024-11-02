@@ -4,7 +4,7 @@
 
 # *Lawyers-Company*
 <p align="center">
-    ![WhatsApp Image 2024-11-02 at 11 30 26 AM](https://github.com/user-attachments/assets/58838666-149e-426a-b47b-5aa1970c13dd)
+![Lawyers_Company](https://lh6.googleusercontent.com/ZslJXPMj-5Mcujy4r2HyxNHODKI_-V8CDj78ud2oBGKEuAKx8kkZ0A2fS7TuqgNI97NjhrXyXa83MVn5yOjsPr0=w1280)
 <p/>
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
 
