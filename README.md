@@ -1,6 +1,6 @@
 
 # *Diseño De Interfacez De Usuario*
-# *Ingeniería De Sistemas Programa: 1569*
+*Ingeniería De Sistemas Programa:1569*
 
 # *Lawyers-Company*
 <p align="center">
