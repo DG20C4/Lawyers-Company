@@ -18,5 +18,4 @@ Ingeniería De Sistemas    Programa: 1569
 
 # *David Chaves: 506222728*
     https://github.com/DG20C4
-# *Email institucional:*
-    david.gutierrec@konradlorenz.edu.co  
+# *Email institucional:* david.gutierrec@konradlorenz.edu.co  
