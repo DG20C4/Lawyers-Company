@@ -10,7 +10,9 @@
   <img width="600" height="550" src="assets/logoLayers.jpg" alt="Lawyer Company">
 </p>
 
-Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
+La aplicación diseñada es un sistema de gestión de expedientes legales para el gabinete de abogados "Lawyers Company".
+El sistema busca mejorar la eficiencia y productividad en la gestión de casos legales, proporcionando una herramienta 
+integral para el gabinete de abogados que permite almacenar, organizar y consultar información detallada de manera segura y accesible.
 
 
 
