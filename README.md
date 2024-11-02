@@ -2,7 +2,7 @@
 # *Diseño De Interfacez De Usuario*
 *Ingeniería De Sistemas Programa:1569*
 
-*Link de acceso al proyecto final*
+*Link de acceso al proyecto final:*
 
     https://github.com/ValerosoV
 
