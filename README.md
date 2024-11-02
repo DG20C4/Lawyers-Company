@@ -51,10 +51,10 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
 
 
 # *Disñadores: Lawyers Company* 
-# *Juan Valero: 506221052*
+# *Estudiante: Juan Valero: 506221052*
     https://github.com/ValerosoV 
 # *Email institucional:* juand.valerov@konradlorenz.edu.co   
 
-# *David Chaves: 506222728*
+# *Estudiante: David Chaves: 506222728*
     https://github.com/DG20C4
 # *Email institucional:* david.gutierrec@konradlorenz.edu.co  
