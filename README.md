@@ -10,7 +10,7 @@ Diseñar una aplicación de software que permita almacenar información sobre lo
 # *Diseño De Interfacez De Usuario*
 Ingeniería De Sistemas    Programa: 1569
 
-# Disñadores: Lawyers Company:* 
+# *Disñadores: Lawyers Company:* 
 # *Juan Valero: 506221052*
     https://github.com/ValerosoV 
 # *Email institucional:* juand.valerov@konradlorenz.edu.co   
