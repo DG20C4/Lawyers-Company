@@ -3,7 +3,7 @@
 *Ingeniería De Sistemas Programa:1569*
 
 # *Lawyers-Company*
-![Lawyer Company](Lawyer-Company.jpeg)
+![Lawyer Company](assets/logoLayers.jpg)
 convert Lawyer-Company.jpeg -quality 80 output.jpg
 
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
