@@ -54,7 +54,7 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
 *F.* Garantizar la seguridad y confidencialidad de la información: Implementar mecanismos de seguridad que aseguren el acceso restringido a la información sensible de los expedientes y los datos personales de los clientes y procuradores, cumpliendo con normativas de protección de datos (como la ley de protección de datos personales o Ley 1581 de 2012).
 
 
-# *Disñadores: Lawyers Company* 
+# *Diseñadores: Lawyers Company* 
 # *Estudiante: Juan Valero: 506221052*
     https://github.com/ValerosoV 
 # *Email institucional:* juand.valerov@konradlorenz.edu.co   
