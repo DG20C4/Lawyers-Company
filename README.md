@@ -32,11 +32,17 @@ Desarrollar una aplicación de software que permita gestionar de manera eficient
 
 # *OBJETIVOS ESPECÍFICOS:*
 *A.* Almacenar información: Desarrollar una funcionalidad que permita registrar y gestionar de manera clara y organizada la información de cada expediente legal, como el número de expediente, el período que cubre el asunto (fecha de inicio y fecha de finalización o fidelización) y su estado actual (en trámite, archivado, finalizado, etc.).
+
 *B.* Asociar cada expediente con su cliente: Implementar un sistema que asegure que cada expediente esté correctamente vinculado a un solo cliente, facilitando el acceso rápido a la información del cliente para los abogados y procuradores.
+
 *C.* Gestionar los procuradores asignados a cada expediente: Permitir el registro de uno o varios procuradores responsables de un asunto, junto con su información personal relevante (nombre, contacto, especialización, etc.), para facilitar la coordinación y el seguimiento del progreso de los casos.
+
 *D.* Visualización del estado y avance de los asuntos: Proporcionar una interfaz de usuario que permita a los abogados y procuradores consultar fácilmente el estado de un asunto (en trámite, archivado, etc.) y ver el historial de acciones o cambios en el mismo.
+
 *E.* Generar informes e indicadores de cumplimiento: Desarrollar una función que permita generar informes automáticos sobre el estado de los asuntos, el desempeño de los procuradores, y otros indicadores clave, para mejorar la toma de decisiones y la planificación del gabinete de abogados.
+
 *F.* Garantizar la seguridad y confidencialidad de la información: Implementar mecanismos de seguridad que aseguren el acceso restringido a la información sensible de los expedientes y los datos personales de los clientes y procuradores, cumpliendo con normativas de protección de datos (como la ley de protección de datos personales o Ley 1581 de 2012).
+
 
 # *Diseño De Interfacez De Usuario*
 Ingeniería De Sistemas    Programa: 1569
