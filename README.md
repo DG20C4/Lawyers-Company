@@ -4,7 +4,7 @@
 
 # *Lawyers-Company*
 <p align="center">
-![Lawyers_Company](https://lh6.googleusercontent.com/ZslJXPMj-5Mcujy4r2HyxNHODKI_-V8CDj78ud2oBGKEuAKx8kkZ0A2fS7TuqgNI97NjhrXyXa83MVn5yOjsPr0=w1280)
+![Lawyer Company](Lawyer-Company.jpeg)
 <p/>
 Diseñar una aplicación de software que permita almacenar información sobre los asuntos que lleva un gabinete de abogados.
 
