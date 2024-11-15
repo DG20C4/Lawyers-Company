@@ -7,7 +7,7 @@
 
 # *Lawyers-Company*
 <p align="center">
-  <img width="600" height="550" src="assets/logoLayers.jpg" alt="Lawyer Company">
+  <img width="600" height="550" src="assets/logoLawyers.jpg" alt="Lawyer Company">
 </p>
 
 La aplicación diseñada es un sistema de gestión de expedientes legales para el gabinete de abogados "Lawyers Company". El sistema busca mejorar la eficiencia y productividad en la gestión de casos legales, proporcionando una herramienta  integral para el gabinete de abogados que permite almacenar, organizar y consultar información detallada de manera segura y accesible.
