@@ -1,0 +1,70 @@
+Lawyers Company:
+
+
+### Cookies técnicas básicas:
+
+1. `lawyers_company_session`
+   - Tipo: Session cookie
+   - Propósito: Identificar la sesión del usuario durante su visita
+   - Duración: Expira al cerrar el navegador
+
+2. `lang_pref`
+   - Tipo: Persistent cookie
+   - Valor predeterminado: "es_ES"
+   - Propósito: Recordar la preferencia de idioma del usuario
+   - Duración: 30 días
+
+3. `_csrf_token`
+   - Tipo: Session cookie
+   - Propósito: Proteger contra ataques CSRF (Cross-Site Request Forgery)
+   - Duración: Expira al cerrar el navegador
+
+
+### Cookies técnicas relacionadas con el rendimiento:
+
+4. `performance_data`
+   - Tipo: Persistent cookie
+   - Propósito: Recopilar datos sobre el rendimiento de la página web
+   - Contenido: "Y4:0" (indicando un buen rendimiento)
+   - Duración: 7 días
+
+5. `cdn_cache`
+   - Tipo: Session cookie
+   - Propósito: Optimizar el uso de CDN (Content Delivery Network)
+   - Duración: Expira al cerrar el navegador
+
+
+### Cookies técnicas para mejoras de experiencia:
+
+6. `theme_choice`
+   - Tipo: Persistent cookie
+   - Valor predeterminado: "light"
+   - Propósito: Recordar la elección de tema visual del usuario
+   - Duración: 90 días
+
+7. `font_size_pref`
+   - Tipo: Persistent cookie
+   - Valor predeterminado: "medium"
+   - Propósito: Recordar la preferencia de tamaño de fuente del usuario
+   - Duración: 60 días
+
+
+### Consideraciones importantes:
+
+- Estas cookies técnicas son esenciales para el funcionamiento adecuado de la página web de Lawyers Company.
+- No contienen información personal sensible.
+- La mayoría de estas cookies tienen una duración limitada para proteger la privacidad del usuario.
+- El uso de cookies técnicas ayuda a mejorar el rendimiento y la experiencia del usuario.
+
+Es importante recordar que esta es una representación ficticia y los nombres exactos de las cookies pueden variar según la implementación real de la página web. 
+
+Citations:
+[1] https://www.nortonrosefulbright.com/en/global-statement/cookies-policy
+[2] https://crockley.com/effective-translations/
+[3] https://www.cuviv.com/en/crea-y-crece-law/
+[4] https://www.cuviv.com/en/products/
+[5] https://www.rationalfood.com/politica-cookies
+[6] https://crockley.com/blog/
+[7] https://www.sacapellaibiza.com/es/privacy-policy?view=category&id=2
+[8] https://reserva.olivanova.com/en/rentals/villa-oliva-sinfonia-by-oliva-nova-461756.html
+[9] https://www.dlapiper.com/en/
